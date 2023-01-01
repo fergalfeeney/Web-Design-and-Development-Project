@@ -1,0 +1,25 @@
+  /* full screen desktop */
+  @media screen and (max-width: 992px) {
+    .column {
+      width: 100%;
+     
+    }
+}
+
+/* tablet/iPad */
+@media screen and (max-width: 768px) {
+    .column {
+      width: 40%;
+     
+  
+
+    }
+}
+
+/* landscape phone */
+@media screen and (max-width: 576px) {
+    .column {
+      width: 100%;
+     
+    }
+}
